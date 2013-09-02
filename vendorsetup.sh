@@ -5,7 +5,7 @@ add_lunch_combo rootbox_d2vzw-userdebug
 add_lunch_combo rootbox_d2usc-userdebug
 add_lunch_combo rootbox_find5-userdebug
 add_lunch_combo rootbox_grouper-userdebug
-add_lunck_combo rootbox_geefhd_att_us-userdebug
+add_lunch_combo rootbox_geefhd_att_us-userdebug
 add_lunch_combo rootbox_i605-userdebug
 add_lunch_combo rootbox_i9100-userdebug
 add_lunch_combo rootbox_i9100g-userdebug
